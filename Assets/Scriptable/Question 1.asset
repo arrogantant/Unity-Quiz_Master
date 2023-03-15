@@ -10,6 +10,13 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 702680c779a75a8478570db4ff67c9a8, type: 3}
-  m_Name: New Question
+  m_Name: Question 1
   m_EditorClassIdentifier: 
-  Question: "\uACE0\uC591\uC774\uAC00 \uACE8\uACE8\uB300\uB294 \uC774\uC720\uB294?"
+  question: Why is the cat spinning next to me?
+  answers:
+  - "\uAE30\uBD84\uC774\uC88B\uC544\uC11C"
+  - "\uADF8\uB0E5"
+  - "\uC2EB\uC5B4\uC11C"
+  - "\uC57C\uC639\uC57C\uC639"
+  correctAnswerIndex: 0
+  GetCorrectAnswerIndex: 0

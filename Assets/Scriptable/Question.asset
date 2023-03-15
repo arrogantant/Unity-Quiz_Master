@@ -10,6 +10,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 702680c779a75a8478570db4ff67c9a8, type: 3}
-  m_Name: New Question 3
+  m_Name: Question
   m_EditorClassIdentifier: 
-  Question: "\uACE0\uC591\uC774\uB294 \uADC0\uC5EC\uC6B4\uAC00"
+  Question: "\uACE0\uC591\uC774\uAC00 \uACE8\uACE8\uB300\uB294 \uC774\uC720\uB294?"
