@@ -14,9 +14,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   question: Why is the cat spinning next to me?
   answers:
-  - "\uAE30\uBD84\uC774\uC88B\uC544\uC11C"
-  - "\uADF8\uB0E5"
-  - "\uC2EB\uC5B4\uC11C"
-  - "\uC57C\uC639\uC57C\uC639"
+  - feel so good
+  - what?
+  - no
+  - yee
   correctAnswerIndex: 0
   GetCorrectAnswerIndex: 0
