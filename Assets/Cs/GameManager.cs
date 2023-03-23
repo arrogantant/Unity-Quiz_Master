@@ -15,8 +15,7 @@ public class GameManager : MonoBehaviour
     }
     void Start()
     {
-       
-
+        quiz.gameObject.SetActive(false);
         quiz.gameObject.SetActive(true);
         endScreen.gameObject.SetActive(false);
     }
